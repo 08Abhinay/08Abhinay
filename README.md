@@ -1,6 +1,5 @@
-# Hey There👋, I'm Aditya
+# Hey There👋, I'm Abhinay
 ## Making the world a better place one app a time 📱
-[![@adeeteya's Holopin board](https://holopin.me/adeeteya)](https://holopin.io/@adeeteya)
 
 ## 💫About Me :
 - 🔭 I’m currently working on building fitness page
