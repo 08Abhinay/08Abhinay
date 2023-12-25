@@ -1,5 +1,5 @@
 # Hey There👋, I'm Abhinay Shankar
-## Making the world a better place one app a time 📱
+## Trying to achieve peak laziness by automating everything! Soon, I'll have a robot pressing the snooze button for me and another one bringing snacks without moving an inch. Lazy? Nah, just setting new standards for efficiency while horizontal!
 
 
 ## 💫About Me :
