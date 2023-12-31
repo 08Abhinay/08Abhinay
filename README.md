@@ -3,10 +3,10 @@
 
 
 ## 💫About Me :
-- 🔭 I’m currently working on building fitness page
+- 🔭 I’m currently working on building fitness page. Additionally, finishing up deep learning certifications on Coursera. 
 - 🌱 I’m currently captivating concepts on Machine Learning, Deep Learning, DSA, node.js and web development
 - 🤔 I’m looking to collaborate on projects related to Machine Learning
-- 💬 Ask me about Machine Learning, Deep Learning, Pyhton and MERN Technologies
+- 💬 Ask me about Machine Learning, Deep Learning, Python and MERN Technologies
 - 📫 How to reach me: abhinaybeldeofficial@gmail.com
 - 😄 Pronouns: he/him
 
