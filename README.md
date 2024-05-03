@@ -3,7 +3,7 @@
 
 
 ## 💫About Me :
-- 🔭 I’m currently working on building fitness page. Additionally, finishing up deep learning certifications on Coursera. 
+- 🔭 I’m currently working on my thesis in GANs. Additionally, finishing up deep learning certifications on Coursera. 
 - 🌱 I’m currently captivating concepts on Machine Learning, Deep Learning, Neural Networks, DSA, node.js and web development
 - 🤔 I’m looking to collaborate on projects related to Machine Learning/Deep Learning
 - 💬 Ask me about Machine Learning, Deep Learning, Python and MERN Technologies
