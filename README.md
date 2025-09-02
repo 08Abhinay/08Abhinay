@@ -2,13 +2,17 @@
 ## Combining machine learning & web dev to innovate, solve problems, and make the world brighter, byte by byte!
 
 
-## 💫About Me :
-- 🔭 I’m currently working on my thesis in GANs. Additionally, finishing up deep learning certifications on Coursera. 
-- 🌱 I’m currently captivating concepts on Machine Learning, Deep Learning, Neural Networks, DSA, node.js and web development
-- 🤔 I’m looking to collaborate on projects related to Machine Learning/Deep Learning
-- 💬 Ask me about Machine Learning, Deep Learning, Python and MERN Technologies
-- 📫 How to reach me: abhinaybeldeofficial@gmail.com
-- 😄 Pronouns: he/him
+## 🔬 About Me  
+
+- 🎓 I’m a **Graduate Researcher in Computer Science (Purdue University)** focusing on **Vision, Graphics, and NLP**.  
+- 🧠 My thesis develops **I-JEPA–conditioned Diffusion–GANs** for high-fidelity, semantically grounded image generation under distribution shift.  
+- 📑 Publications:  
+  - **EMNLP Findings 2025** – *Hybrid–Dynamic Select* (query-efficient adversarial attacks on LLMs)  
+  - Ongoing work under review for **ICLR** and **ACL Rolling Review**  
+- 🔍 Research interests: **3D-aware generative models, neural rendering, multimodal learning, adversarial robustness, and data-centric AI**.  
+- ⚡ Technical experience: **StyleGAN2, Diffusion models, distributed training (HPC/DDP), multimodal pipelines, large-scale dataset curation**.  
+- 🤝 Always open to collaborating on projects in **controllable scene generation, geometry-aware generative architectures, and multimodal model efficiency**.  
+- 📫 Reach me at **abhinaybelde@gmail.com**  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abhinay.belde?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/08_abhinay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinay-belde-3a384a1a0/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/abhinaybelde99/)
