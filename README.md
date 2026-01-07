@@ -1,5 +1,5 @@
 # Hey There👋, I'm Abhinay Shankar
-## Combining machine learning & web dev to innovate, solve problems, and make the world brighter, byte by byte!
+## 4D Generative Modeling • 3D Vision • 2D Vision • Robust AI Research
 
 
 ## 🔬 About Me  
@@ -7,8 +7,9 @@
 - 🎓 I’m a **Graduate Researcher in Computer Science (Purdue University)** focusing on **Vision, Graphics, and NLP**.  
 - 🧠 My thesis develops **I-JEPA–conditioned Diffusion–GANs** for high-fidelity, semantically grounded image generation under distribution shift.  
 - 📑 Publications:  
-  - **EMNLP Findings 2025** – *Hybrid–Dynamic Select* (query-efficient adversarial attacks on LLMs)  
-  - Ongoing work under review for **ICLR** and **ACL Rolling Review**  
+  - **EMNLP Findings 2025** – *Hybrid–Dynamic Select* (query-efficient adversarial attacks on LLMs)
+  - Submitted a second paper called CONQUEST to **ACL Rolling Review**.
+  - Ongoing work with a plan to submit paper to ICCV in March. 
 - 🔍 Research interests: **3D-aware generative models, neural rendering, multimodal learning, adversarial robustness, and data-centric AI**.  
 - ⚡ Technical experience: **StyleGAN2, Diffusion models, distributed training (HPC/DDP), multimodal pipelines, large-scale dataset curation**.  
 - 🤝 Always open to collaborating on projects in **controllable scene generation, geometry-aware generative architectures, and multimodal model efficiency**.  
